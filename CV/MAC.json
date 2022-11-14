@@ -1,0 +1,1174 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Carlos",
+      "surnames": "Correa",
+      "title": "Frontend developer",
+      "description": "I'm a Frontend developer with 2 years of work experience, i worked as Freelancer on diferents projects and now i want to get a formal job, My most value work was on Cheeky bonsai webiste, i developed most of the features like the home page, the about page, The Cheeky Blog Page, was a interested job cuz i have my first aproach with shopify api and the workflow with the team was very good. My goal is become a full stack web developer, currently learning node, and express",
+      "avatar": {
+        "alt": "1635966460439.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/93643702-39a6-4c46-9840-2142e099b98a_1635966460439.jpg"
+      },
+      "location": {
+        "country": "Venezuela",
+        "region": "Sucre"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://carloscorreaportfolio.netlify.app"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/Deadflight"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/Deadfligth"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/carloscorreamillan"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "CheshTech Digital Agency",
+          "image": {
+            "alt": "descarga.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/528d8526-eec3-4ce8-b099-739981e1b61c_descarga.png"
+          },
+          "URL": "https://www.cheshtech.com/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Worked as frontend developer developing web applications for Eco-Friendly companies.\n-My tasks was created components, connect with APIS like Shopify. \n-Convert figma designs to React.Js apps\n-Stack Tecnologies: Next,Js, Gatsby.Js React.js, API REST, Styled Components, GraphQl.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Upwork",
+          "image": {
+            "alt": "Upwork-Logo-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/b7e3dcb5-ce20-4ae0-863b-bf4fa6c2fe13_upwork-logo-1.png"
+          },
+          "URL": "https://www.upwork.com/freelancers/~0174627cf6c9ca0080"
+        },
+        "roles": [
+          {
+            "name": "Frelance Frontend Developer",
+            "startDate": "2021-11-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "I worked as a frontend developer using technologies such as React, Material UI, Styled Components API REST, building a music web app, my functions were create pages where I show detailed information to the user, consumed from the backend through the Rest API.\nTechnologies used: React.js, Material UI, API REST, Styled Components, Redux\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Calendar App",
+          "description": "In this side project i wanted to adventure in the backend so i use node.js and express as framework and React as the Frontend of the app",
+          "URL": "https://calendar-app-theta.vercel.app/",
+          "image": {
+            "alt": "68747470733a2f2f766974656a732e6465762f6c6f676f2e737667.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/2d8031de-bd07-4ba5-9f1a-079f133c7dd1_68747470733a2f2f7669.svg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-10-01",
+            "finishDate": "2022-11-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Teslo Shop",
+          "description": "Teslo Shop ECommerce website made with Next.Js, MongoDB, Next Auth,Materil UI",
+          "URL": "https://teslo-shop-carlos.herokuapp.com/",
+          "image": {
+            "alt": "next-js-logo-8FCFF51DD2-seeklogo.com.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/01ea4078-c1ba-4de1-b7ba-a99f2d229906_next-js-logo-8fcff51.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-06-01",
+            "finishDate": "2022-07-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Mongoose",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Cheeky Bonsai Website",
+          "description": "Worked as frontend developer, my responsabilities was\n-Built the home page\n- Built the about page\n- The Cheeky blogpage \n- The cart modal feature\n",
+          "URL": "https://cheekybonsai.com/",
+          "image": {
+            "alt": "toilet-icon.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/686e3ec0-e103-4c7c-bdf8-74a9a77f1893_toilet-icon.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-05-01",
+            "finishDate": "2022-09-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "CMS",
+                "type": "technology"
+              },
+              {
+                "name": "Gatsby",
+                "type": "technology"
+              },
+              {
+                "name": "GraphQL",
+                "type": "technology"
+              },
+              {
+                "name": "Shopify",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "CryptoVerse",
+          "description": "Crypto App using React, coinranking API, Bing News Search API, Redux Toolkit",
+          "URL": "https://cryptoversedeadflight.netlify.app/",
+          "image": {
+            "alt": "React-icon.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/ef185d45-6ca4-435d-90c9-530575901686_react-icon.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-09-01",
+            "finishDate": "2022-10-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gatsby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "StyledComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Axios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shopify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "React: De cero a experto ( Hooks y MERN ",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "https://www.udemy.com/certificate/UC-52bba74e-cddd-4cd1-a509-e3c0afa00572/",
+          "URL": "https://www.udemy.com/certificate/UC-52bba74e-cddd-4cd1-a509-e3c0afa00572/",
+          "image": {
+            "alt": "Udemy-Emblem.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/73a99696-5506-4343-a8cb-c9cb968de7dd_udemy-emblem.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Bootstrap",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "React PRO: Lleva tus bases al siguiente nivel",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Udemy",
+          "URL": "https://www.udemy.com/certificate/UC-ef8980bf-88d6-4d3d-8e5c-b8da477f6b67/",
+          "image": {
+            "alt": "Udemy-Emblem.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/7c10148a-32d0-4e71-811b-ccd59bd11749_udemy-emblem.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          },
+          {
+            "name": "Mongoose",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Storybook",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js con GraphQL",
+        "startDate": "2022-11-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2680-nextjs-graphql/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/09ef848b-53f9-40d1-ad7d-d3b039a22118_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "GraphQL",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Next.js: El framework de React para producción",
+        "startDate": "2022-07-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Course by Fernando Herrera where i learned about Nextjs, NextAuth, Middlewares, SWR, Cookies, Material UI, Docker.",
+          "URL": "https://www.udemy.com/certificate/UC-7bfc0528-a697-481d-9c5c-74d87820bf0a/",
+          "image": {
+            "alt": "Udemy-Emblem.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/c5c8556c-13c3-473b-9a5c-5cec73690cec_udemy-emblem.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Docker",
+            "type": "technology"
+          },
+          {
+            "name": "MaterialUI",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de React Avanzado",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/1601-react-avanzado/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/58d56116-6a4a-4200-96dd-dc646639fbf7_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Práctico de Next.js",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Plazti",
+          "URL": "https://platzi.com/p/Deadflight/curso/2690-nextjs-practico/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/16820244-09e8-4ce6-9fdd-4f55c191506f_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Profesional de Next.js",
+        "startDate": "2022-02-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2707-profesional-nextjs/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/0a8b2367-cfa5-4331-a564-5198bf8cc102_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de React.js: Manejo Profesional del Estado",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2597-react-estado/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/1105aa7b-f48a-4881-96f2-8f7fcdbf01a7_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de React.js: Patrones de Render y Composición",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2457-react-patrones-render/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/ec29e790-c49e-4d31-b856-1f5b5750f18e_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Redux por Bedu",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/1613-redux/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/9685ea35-52e0-46c4-a7e4-5e4e6e1c2c75_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Webpack",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Plazti",
+          "URL": "https://platzi.com/p/Deadflight/curso/2242-webpack/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/fa07f913-4ba9-4e4b-812d-a9c8cc830e1c_platzi.jpg"
+          }
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Práctico de React.js",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Plazti",
+          "URL": "https://platzi.com/p/Deadflight/curso/2484-react-practico/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/91ab13cb-ee70-4ec2-ba25-3b8036e9f4eb_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Profesional de JavaScript",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Plazti",
+          "URL": "https://platzi.com/p/Deadflight/curso/1642-javascript-profesional/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/a6850a56-d7e1-41b6-9a9a-3cb5fced2389_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Profesional de React Hooks",
+        "startDate": "2022-01-01",
+        "institution": {
+          "name": "Plazti",
+          "URL": "https://platzi.com/p/Deadflight/curso/2118-react-hooks/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/94870dc2-1a05-4873-a541-d24eafb91e0c_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Hooks",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Profesional de Git y GitHub",
+        "startDate": "2021-12-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/1557-git-github/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/07c76969-14b7-437b-91ac-77ef72cdf879_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js: Autenticación",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2428-nextjs-auth/diploma/detalle",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/8e2be07b-669e-4488-a28f-f5b8bed5225a_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js: Internacionalización de Aplicaciones Web con i18n",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Plazti",
+          "URL": "https://platzi.com/p/Deadflight/curso/2364-nextjs-internacionalizacion/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/bb434f8f-a44e-482b-b8e5-69bdba853223_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js: Optimización y Deploy a Producción",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2363-nextjs-deploy/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/1a17007d-c5ef-40c9-86fe-17ed294d928f_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js: Optimización y Manejo de Grandes Datasets",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2427-nextjs-grandes-datasets/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/f701f9c1-734c-40ee-9a9f-ffb4e99b4a40_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js: Seguridad Web con OWASP",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2429-nextjs-owasp/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/93346027-7520-429b-9247-e1853471a92a_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js: Sitios Estáticos y Jamstack",
+        "startDate": "2021-11-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2362-nextjs-jamstack/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/f59dade6-8ac5-487e-9997-10c06ef27179_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jamstack",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Básico de JavaScript",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/1814-basico-javascript/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/8f7a5ac8-b7cd-4507-a2a9-3b32f0a9d57b_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Frontend Developer",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2467-frontend-developer/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/dae2dcfd-f860-4f0d-a0bb-dc4b06fa696a_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Introducción a React.js",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2444-react/diploma/detalle",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/531fc12b-4c77-463b-969c-9ef763c2625c_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso de Next.js",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/1991-next/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/2e71eaa6-6c08-40ce-8d0a-bce83cfd081b_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Práctico de Frontend Developer",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2477-frontend-developer-practico/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/aa328346-e70d-4989-aad9-0045384fea15_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Curso Práctico de JavaScript",
+        "startDate": "2021-10-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/2327-javascript-practico-2021/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/188bf8f4-6132-4ecc-8e8f-ca9f518cbf7c_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Desarrollo de Aplicaciones Web con Gatsby JS",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Platzi",
+          "URL": "https://platzi.com/p/Deadflight/curso/1618-gatsby/diploma/detalle/",
+          "image": {
+            "alt": "Platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/685d70bd-2913-4294-9793-45c7435cc3a4_platzi.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Gatsby",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/carloscorreamillan"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "API",
+          "type": "technology"
+        },
+        {
+          "name": "Gatsby",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Mongoose",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "StyledComponents",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Full-stack Developer"
+      ]
+    }
+  }
+}
