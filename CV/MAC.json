@@ -42,6 +42,22 @@
     "jobs": [
       {
         "organization": {
+          "name": "CheshTech: Digital Agency for Impact Driven Companies "
+        },
+        "roles": [
+          {
+            "name": "Frontend Web Developer",
+            "startDate": "2022-04-01",
+            "challenges": [
+              {
+                "description": "Working as Frontend Developer, developing web applications made with react js, gatsby js and next js"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "CheshTech Digital Agency",
           "image": {
             "alt": "descarga.png",
@@ -130,6 +146,23 @@
               {
                 "name": "StyledComponents",
                 "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Upwork "
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
               }
             ]
           }
@@ -300,14 +333,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English"
-      },
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -1164,10 +1189,6 @@
           "name": "Tailwind",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Frontend Developer",
-        "Full-stack Developer"
       ]
     }
   }
