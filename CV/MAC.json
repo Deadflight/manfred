@@ -251,7 +251,7 @@
       {
         "details": {
           "name": "Cheeky Bonsai Website",
-          "description": "Worked as frontend developer, my responsabilities was\n-Built the home page\n- Built the about page\n- The Cheeky blogpage \n- The cart modal feature\n",
+          "description": "Rebuilt of Cheeky Bonsai website a science-backed UTI products made for balanced urinary tract health.\nOne of the first goals of this project was change the shopify default theme to one that represents the company.\nWe chose GatsbyJs as framework since had a shopify plugin that works very well with the GraphQL ecosystem.\nOne of the biggest obstacles I faced in this project was, as the project grew, it was necessary to implement the subscription purchase and the shopify plugin had to be completely removed since the plugin did not have that functionality and it was decided to work directly with the shopify API and Apollo GraphQL.\n\nTech Stack: GatsbyJs, Styled Components, Contentful, Shopify, GraphQL\n",
           "URL": "https://cheekybonsai.com/",
           "image": {
             "alt": "toilet-icon.png",
