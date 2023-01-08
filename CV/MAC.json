@@ -288,10 +288,6 @@
               {
                 "name": "StyledComponents",
                 "type": "technology"
-              },
-              {
-                "name": "Tailwind",
-                "type": "technology"
               }
             ]
           }
