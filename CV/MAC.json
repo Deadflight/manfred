@@ -42,22 +42,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "CheshTech: Digital Agency for Impact Driven Companies "
-        },
-        "roles": [
-          {
-            "name": "Frontend Web Developer",
-            "startDate": "2022-04-01",
-            "challenges": [
-              {
-                "description": "Working as Frontend Developer, developing web applications made with react js, gatsby js and next js"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "CheshTech Digital Agency",
           "image": {
             "alt": "descarga.png",
