@@ -1189,6 +1189,9 @@
           "name": "Tailwind",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
       ]
     },
     "status": "searchingActively"
