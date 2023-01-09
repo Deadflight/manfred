@@ -436,46 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de Next.js: Optimización y Manejo de Grandes Datasets",
-        "startDate": "2021-11-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2427-nextjs-grandes-datasets/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/f701f9c1-734c-40ee-9a9f-ffb4e99b4a40_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NextJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso de Next.js: Seguridad Web con OWASP",
-        "startDate": "2021-11-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2429-nextjs-owasp/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/93346027-7520-429b-9247-e1853471a92a_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NextJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de Next.js: Sitios Estáticos y Jamstack",
         "startDate": "2021-11-01",
         "institution": {
