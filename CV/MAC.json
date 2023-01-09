@@ -436,46 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de Next.js: Internacionalización de Aplicaciones Web con i18n",
-        "startDate": "2021-11-01",
-        "institution": {
-          "name": "Plazti",
-          "URL": "https://platzi.com/p/Deadflight/curso/2364-nextjs-internacionalizacion/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/bb434f8f-a44e-482b-b8e5-69bdba853223_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NextJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso de Next.js: Optimización y Deploy a Producción",
-        "startDate": "2021-11-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2363-nextjs-deploy/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/1a17007d-c5ef-40c9-86fe-17ed294d928f_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NextJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de Next.js: Optimización y Manejo de Grandes Datasets",
         "startDate": "2021-11-01",
         "institution": {
