@@ -316,55 +316,19 @@
       },
       {
         "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Gatsby",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "StyledComponents",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Axios",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Jest",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "NextJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TestingLibrary",
+          "name": "Tailwind",
           "type": "technology"
         }
       },
@@ -376,19 +340,7 @@
       },
       {
         "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GraphQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Shopify",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -400,7 +352,85 @@
       },
       {
         "skill": {
-          "name": "NextJS",
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Gatsby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "StyledComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GraphQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Axios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shopify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
           "type": "technology"
         }
       }
@@ -1199,7 +1229,15 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
         "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {
@@ -1208,14 +1246,6 @@
       },
       {
         "name": "API",
-        "type": "technology"
-      },
-      {
-        "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "NextJS",
         "type": "technology"
       }
     ]
