@@ -436,54 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso Práctico de JavaScript",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2327-javascript-practico-2021/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/188bf8f4-6132-4ecc-8e8f-ca9f518cbf7c_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Desarrollo de Aplicaciones Web con Gatsby JS",
-        "startDate": "2021-03-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/1618-gatsby/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/685d70bd-2913-4294-9793-45c7435cc3a4_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Gatsby",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Platzi Student",
         "startDate": "2021-03-01",
         "institution": {
