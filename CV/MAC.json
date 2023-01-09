@@ -436,50 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de React.js: Patrones de Render y Composición",
-        "startDate": "2022-01-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2457-react-patrones-render/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/ec29e790-c49e-4d31-b856-1f5b5750f18e_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso de Redux por Bedu",
-        "startDate": "2022-01-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/1613-redux/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/9685ea35-52e0-46c4-a7e4-5e4e6e1c2c75_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Redux",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de Webpack",
         "startDate": "2022-01-01",
         "institution": {
