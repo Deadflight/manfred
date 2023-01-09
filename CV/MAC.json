@@ -436,62 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de React Avanzado",
-        "startDate": "2022-02-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/1601-react-avanzado/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/58d56116-6a4a-4200-96dd-dc646639fbf7_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso Práctico de Next.js",
-        "startDate": "2022-02-01",
-        "institution": {
-          "name": "Plazti",
-          "URL": "https://platzi.com/p/Deadflight/curso/2690-nextjs-practico/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/16820244-09e8-4ce6-9fdd-4f55c191506f_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NextJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso Profesional de Next.js",
         "startDate": "2022-02-01",
         "institution": {
