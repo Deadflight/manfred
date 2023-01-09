@@ -1144,6 +1144,21 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Platzi",
+        "startDate": "2021-03-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Platform that I frequently use to learn even more about technology",
+          "URL": "https://platzi.com/p/Deadflight",
+          "image": {
+            "alt": "188bf8f4-6132-4ecc-8e8f-ca9f518cbf7c_platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/09/0eeee34f-1a03-4947-840b-ecd45826e7b3_188bf8f4-6132-4ecc-8.jpg"
+          }
+        }
       }
     ]
   },
