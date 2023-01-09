@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -16,7 +16,8 @@
       },
       "location": {
         "country": "Venezuela",
-        "region": "Sucre"
+        "region": "Sucre",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -296,6 +297,16 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -431,6 +442,7 @@
         "startDate": "2022-11-01",
         "institution": {
           "name": "Udemy",
+          "description": "",
           "URL": "https://www.udemy.com/certificate/UC-ef8980bf-88d6-4d3d-8e5c-b8da477f6b67/",
           "image": {
             "alt": "Udemy-Emblem.png",
@@ -467,6 +479,7 @@
         "startDate": "2022-11-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2680-nextjs-graphql/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -524,6 +537,7 @@
         "startDate": "2022-02-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/1601-react-avanzado/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -556,6 +570,7 @@
         "startDate": "2022-02-01",
         "institution": {
           "name": "Plazti",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2690-nextjs-practico/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -580,6 +595,7 @@
         "startDate": "2022-02-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2707-profesional-nextjs/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -612,6 +628,7 @@
         "startDate": "2022-01-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2597-react-estado/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -644,6 +661,7 @@
         "startDate": "2022-01-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2457-react-patrones-render/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -664,6 +682,7 @@
         "startDate": "2022-01-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/1613-redux/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -688,6 +707,7 @@
         "startDate": "2022-01-01",
         "institution": {
           "name": "Plazti",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2242-webpack/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -702,6 +722,7 @@
         "startDate": "2022-01-01",
         "institution": {
           "name": "Plazti",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2484-react-practico/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -722,6 +743,7 @@
         "startDate": "2022-01-01",
         "institution": {
           "name": "Plazti",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/1642-javascript-profesional/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -750,6 +772,7 @@
         "startDate": "2022-01-01",
         "institution": {
           "name": "Plazti",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2118-react-hooks/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -774,6 +797,7 @@
         "startDate": "2021-12-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/1557-git-github/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -798,6 +822,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2428-nextjs-auth/diploma/detalle",
           "image": {
             "alt": "Platzi.jpg",
@@ -818,6 +843,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Plazti",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2364-nextjs-internacionalizacion/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -838,6 +864,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2363-nextjs-deploy/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -858,6 +885,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2427-nextjs-grandes-datasets/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -878,6 +906,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2429-nextjs-owasp/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -898,6 +927,7 @@
         "startDate": "2021-11-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2362-nextjs-jamstack/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -922,6 +952,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/1814-basico-javascript/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -942,6 +973,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2467-frontend-developer/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -970,6 +1002,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2444-react/diploma/detalle",
           "image": {
             "alt": "Platzi.jpg",
@@ -1002,6 +1035,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/1991-next/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -1038,6 +1072,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2477-frontend-developer-practico/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -1066,6 +1101,7 @@
         "startDate": "2021-10-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/2327-javascript-practico-2021/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -1094,6 +1130,7 @@
         "startDate": "2021-03-01",
         "institution": {
           "name": "Platzi",
+          "description": "",
           "URL": "https://platzi.com/p/Deadflight/curso/1618-gatsby/diploma/detalle/",
           "image": {
             "alt": "Platzi.jpg",
@@ -1153,6 +1190,31 @@
           "type": "technology"
         }
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "Gatsby",
+        "type": "technology"
+      },
+      {
+        "name": "API",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      }
+    ]
   }
 }
