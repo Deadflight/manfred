@@ -436,50 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de Next.js: Sitios Estáticos y Jamstack",
-        "startDate": "2021-11-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2362-nextjs-jamstack/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/f59dade6-8ac5-487e-9997-10c06ef27179_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jamstack",
-            "type": "technology"
-          },
-          {
-            "name": "NextJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso Básico de JavaScript",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/1814-basico-javascript/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/8f7a5ac8-b7cd-4507-a2a9-3b32f0a9d57b_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de Frontend Developer",
         "startDate": "2021-10-01",
         "institution": {
