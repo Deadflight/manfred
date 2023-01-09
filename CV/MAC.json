@@ -106,12 +106,12 @@
         },
         "roles": [
           {
-            "name": "Frelance Frontend Developer",
+            "name": "Frelancer Frontend Developer",
             "startDate": "2021-11-01",
             "finishDate": "2022-01-01",
             "challenges": [
               {
-                "description": "I worked as a frontend developer using technologies such as React, Material UI, Styled Components API REST, building a music web app, my functions were create pages where I show detailed information to the user, consumed from the backend through the Rest API.\nTechnologies used: React.js, Material UI, API REST, Styled Components, Redux\n"
+                "description": "## Freelancer Web developer at Upwork\n\nNovember 2021 - January 2022 · 2 months [Remote] [Cumaná, Venezuela] [Freelance Job]\n\n**RESPONSIBILITIES**\n\n- Request the audio data to the Backend and display the information clearly to the user.\n- Create table components to represents audio data built with React.\n- Identify connection problems with the api.\n\n**KEY ACCOMPLISHMENTS**\n\n- First approach to working in a team and performing tasks in Jira\n- Development of components showing audio information, requesting the information to the backend through REST API."
               }
             ],
             "competences": [
