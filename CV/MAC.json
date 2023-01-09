@@ -436,42 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "React PRO: Lleva tus bases al siguiente nivel",
-        "startDate": "2022-11-01",
-        "institution": {
-          "name": "Udemy",
-          "URL": "https://www.udemy.com/certificate/UC-ef8980bf-88d6-4d3d-8e5c-b8da477f6b67/",
-          "image": {
-            "alt": "Udemy-Emblem.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/7c10148a-32d0-4e71-811b-ccd59bd11749_udemy-emblem.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "API",
-            "type": "technology"
-          },
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          },
-          {
-            "name": "Mongoose",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          },
-          {
-            "name": "Storybook",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de Next.js con GraphQL",
         "startDate": "2022-11-01",
         "institution": {
