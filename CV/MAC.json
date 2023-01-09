@@ -436,66 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de Frontend Developer",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2467-frontend-developer/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/dae2dcfd-f860-4f0d-a0bb-dc4b06fa696a_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso de Introducción a React.js",
-        "startDate": "2021-10-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2444-react/diploma/detalle",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/531fc12b-4c77-463b-969c-9ef763c2625c_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de Next.js",
         "startDate": "2021-10-01",
         "institution": {
