@@ -436,58 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso Profesional de JavaScript",
-        "startDate": "2022-01-01",
-        "institution": {
-          "name": "Plazti",
-          "URL": "https://platzi.com/p/Deadflight/curso/1642-javascript-profesional/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/a6850a56-d7e1-41b6-9a9a-3cb5fced2389_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "CSS",
-            "type": "technology"
-          },
-          {
-            "name": "HTML",
-            "type": "technology"
-          },
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso Profesional de React Hooks",
-        "startDate": "2022-01-01",
-        "institution": {
-          "name": "Plazti",
-          "URL": "https://platzi.com/p/Deadflight/curso/2118-react-hooks/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/94870dc2-1a05-4873-a541-d24eafb91e0c_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Hooks",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso Profesional de Git y GitHub",
         "startDate": "2021-12-01",
         "institution": {
