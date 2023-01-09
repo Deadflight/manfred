@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,14 +9,15 @@
       "name": "Carlos",
       "surnames": "Correa",
       "title": "Frontend developer",
-      "description": "10 months experience as a Frontend Developer working on creating static web pages with technologies like Next.JS, Gatsby and Vite. I can offer my experience as a web developer focused to deliver functional, quality, intuitive and user-friendly digital products. My goal when carrying out the projects is to deliver a quality, readable product, and with reusable components, for which I value communication with the team in order to reach the goal.",
+      "description": "10 months work experience as a Frontend Developer working on creating static web pages with technologies like Next.JS, Gatsby and Vite. I can offer my experience as a web developer focused to deliver functional, quality, intuitive and user-friendly digital products. My goal when carrying out the projects is to deliver a quality, readable product, and with reusable components, for which I value communication with the team in order to reach the goal.",
       "avatar": {
         "alt": "1635966460439.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/93643702-39a6-4c46-9840-2142e099b98a_1635966460439.jpg"
       },
       "location": {
         "country": "Venezuela",
-        "region": "Sucre"
+        "region": "Sucre",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -298,10 +299,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -497,6 +500,31 @@
       "preferredRoles": [
         "Frontend Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "Gatsby",
+        "type": "technology"
+      },
+      {
+        "name": "API",
+        "type": "technology"
+      }
+    ]
   }
 }
