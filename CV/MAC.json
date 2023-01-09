@@ -436,35 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "React: De cero a experto ( Hooks y MERN ",
-        "startDate": "2022-11-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "https://www.udemy.com/certificate/UC-52bba74e-cddd-4cd1-a509-e3c0afa00572/",
-          "URL": "https://www.udemy.com/certificate/UC-52bba74e-cddd-4cd1-a509-e3c0afa00572/",
-          "image": {
-            "alt": "Udemy-Emblem.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/73a99696-5506-4343-a8cb-c9cb968de7dd_udemy-emblem.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Bootstrap",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          },
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "React PRO: Lleva tus bases al siguiente nivel",
         "startDate": "2022-11-01",
         "institution": {
