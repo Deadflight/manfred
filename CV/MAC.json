@@ -436,63 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de Next.js con GraphQL",
-        "startDate": "2022-11-01",
-        "institution": {
-          "name": "Platzi",
-          "URL": "https://platzi.com/p/Deadflight/curso/2680-nextjs-graphql/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/09ef848b-53f9-40d1-ad7d-d3b039a22118_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "GraphQL",
-            "type": "technology"
-          },
-          {
-            "name": "NextJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Next.js: El framework de React para producción",
-        "startDate": "2022-07-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Course by Fernando Herrera where i learned about Nextjs, NextAuth, Middlewares, SWR, Cookies, Material UI, Docker.",
-          "URL": "https://www.udemy.com/certificate/UC-7bfc0528-a697-481d-9c5c-74d87820bf0a/",
-          "image": {
-            "alt": "Udemy-Emblem.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/c5c8556c-13c3-473b-9a5c-5cec73690cec_udemy-emblem.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "API",
-            "type": "technology"
-          },
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "MaterialUI",
-            "type": "technology"
-          },
-          {
-            "name": "NextJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso de React Avanzado",
         "startDate": "2022-02-01",
         "institution": {
