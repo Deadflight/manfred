@@ -436,40 +436,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Curso de Webpack",
-        "startDate": "2022-01-01",
-        "institution": {
-          "name": "Plazti",
-          "URL": "https://platzi.com/p/Deadflight/curso/2242-webpack/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/fa07f913-4ba9-4e4b-812d-a9c8cc830e1c_platzi.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Curso Práctico de React.js",
-        "startDate": "2022-01-01",
-        "institution": {
-          "name": "Plazti",
-          "URL": "https://platzi.com/p/Deadflight/curso/2484-react-practico/diploma/detalle/",
-          "image": {
-            "alt": "Platzi.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/14/91ab13cb-ee70-4ec2-ba25-3b8036e9f4eb_platzi.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "React",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "Curso Profesional de JavaScript",
         "startDate": "2022-01-01",
         "institution": {
