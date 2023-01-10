@@ -431,6 +431,69 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "selfTraining",
+        "degreeAchieved": false,
+        "name": "Platzi Student",
+        "startDate": "2020-04-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "Online education platform where I educate myself, practice and constantly learn about the world of technology",
+          "URL": "https://platzi.com/p/Deadflight/",
+          "image": {
+            "alt": "188bf8f4-6132-4ecc-8e8f-ca9f518cbf7c_platzi.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/10/3ba200f4-e1c9-44a5-abf9-a2ea66b5480e_188bf8f4-6132-4ecc-8.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "Gatsby",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NextJS",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          },
+          {
+            "name": "Redux",
+            "type": "technology"
+          },
+          {
+            "name": "StyledComponents",
+            "type": "technology"
+          },
+          {
+            "name": "Tailwind",
+            "type": "technology"
+          },
+          {
+            "name": "Vue",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
