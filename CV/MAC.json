@@ -493,6 +493,49 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Degree in computer science",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Eastern University (UDO)",
+          "image": {
+            "alt": "Logo_UDO.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/10/166f5048-fe15-4db6-b539-88b258583158_logo_udo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "API",
+            "type": "technology"
+          },
+          {
+            "name": "C++",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "Matlab",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
